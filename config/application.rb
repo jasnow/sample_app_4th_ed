@@ -14,5 +14,7 @@ module SampleApp
 
     # Include the authenticity token in remote forms.
     config.action_view.embed_authenticity_token_in_remote_forms = true
+
+    config.action_dispatch.return_only_media_type_on_content_type = false
   end
 end

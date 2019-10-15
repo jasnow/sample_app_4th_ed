@@ -234,7 +234,7 @@ GEM
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.4)
-    will_paginate (3.2.0)
+    will_paginate (3.2.1)
     zeitwerk (2.2.0)
 
 PLATFORMS
@@ -271,4 +271,4 @@ DEPENDENCIES
   will_paginate
 
 BUNDLED WITH
-   2.1.0.pre.1
+   2.1.0.pre.2

@@ -20,6 +20,7 @@ gem 'jbuilder'
 group :development, :test do
   gem 'sqlite3'
   gem 'byebug', platform: :mri
+  gem 'brakeman'
 end
 
 group :development do

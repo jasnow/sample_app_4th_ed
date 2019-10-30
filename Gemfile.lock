@@ -68,7 +68,7 @@ GEM
       sassc (>= 2.0.0)
     bootstrap-will_paginate (1.0.0)
       will_paginate
-    brakeman (4.7.0)
+    brakeman (4.7.1)
     builder (3.2.3)
     byebug (11.0.1)
     carrierwave (2.0.2)
@@ -136,7 +136,7 @@ GEM
     mini_magick (4.9.5)
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
-    minitest (5.12.2)
+    minitest (5.13.0)
     minitest-reporters (1.4.2)
       ansi
       builder

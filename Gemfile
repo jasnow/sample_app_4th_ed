@@ -39,7 +39,7 @@ group :test do
 end
 
 group :production do
-  gem 'pg'
+#HID:  gem 'pg' # HID on 10/3/2020
 #HID:  gem 'fog'
 end
 
